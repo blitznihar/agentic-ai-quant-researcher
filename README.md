@@ -52,14 +52,14 @@ Later phases will re-implement these workflows using LangGraph, CrewAI, and othe
 
 ## LLM Models
 
-![alt text](assets/claude.png)
-![alt text](assets/deepseek.png)
-![alt text](assets/gemini.png)
-![alt text](assets/grok.png)
-![alt text](assets/groq.png)
-![alt text](assets/mistral.png)
-![alt text](assets/openai.png)
-![alt text](assets/ollama.png)
+![alt text](assets/claude.png){width=150px height=50px}
+![alt text](assets/deepseek.png){width=150px height=50px}
+![alt text](assets/gemini.png){width=150px height=50px}
+![alt text](assets/grok.png){width=150px height=50px}
+![alt text](assets/groq.png){width=150px height=50px}
+![alt text](assets/mistral.png){width=150px height=50px}
+![alt text](assets/openai.png){width=150px height=50px}
+![alt text](assets/ollama.png){width=150px height=50px}
 
 - [x] Open AI
 - [x] Google Gemini
