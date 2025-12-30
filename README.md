@@ -52,7 +52,7 @@ Later phases will re-implement these workflows using LangGraph, CrewAI, and othe
 
 ## LLM Models
 
-<img src="./assets/claude.png" alt="claude" width="150" height="50"></img>
+<img src="./assets/claude.png" alt="claude" width="150px" height="50px"></img>
 <img src="./assets/deepseek.png" alt="deepseek" width="150" height="50"></img>
 <img src="./assets/gemini.png" alt="gemini" width="150" height="50"></img>
 <img src="./assets/grok.png" alt="grok" width="150" height="50"></img>
