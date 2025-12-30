@@ -52,14 +52,14 @@ Later phases will re-implement these workflows using LangGraph, CrewAI, and othe
 
 ## LLM Models
 
-<img src="./assets/claude.png" alt="claude" width="200" height="50"></img>
-<img src="./assets/deepseek.png" alt="deepseek" width="200" height="50"></img>
-<img src="./assets/gemini.png" alt="gemini" width="200" height="50"></img>
-<img src="./assets/grok.png" alt="grok" width="200" height="50"></img>
-<img src="./assets/groq.png" alt="groq" width="200" height="50"></img>
-<img src="./assets/mistral.png" alt="mistral" width="200" height="50"></img>
-<img src="./assets/openai.png" alt="openai" width="200" height="50"></img>
-<img src="./assets/ollama.png" alt="ollama" width="200" height="50"></img>
+<img src="./assets/claude.png" alt="claude" width="150" height="50"></img>
+<img src="./assets/deepseek.png" alt="deepseek" width="150" height="50"></img>
+<img src="./assets/gemini.png" alt="gemini" width="150" height="50"></img>
+<img src="./assets/grok.png" alt="grok" width="150" height="50"></img>
+<img src="./assets/groq.png" alt="groq" width="150" height="50"></img>
+<img src="./assets/mistral.png" alt="mistral" width="150" height="50"></img>
+<img src="./assets/openai.png" alt="openai" width="150" height="50"></img>
+<img src="./assets/ollama.png" alt="ollama" width="150" height="50"></img>
 
 - [x] Open AI
 - [x] Google Gemini
