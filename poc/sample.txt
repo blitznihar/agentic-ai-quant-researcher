@@ -1,0 +1,3 @@
+Sample placeholder content for initial POC. Expand with notes or test outputs as needed.
+Line 01: Notebook-first quant research lab notes.
+Line 02: Universe selection pending; gather ticker list.
